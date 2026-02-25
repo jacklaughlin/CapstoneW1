@@ -40,3 +40,7 @@ cd "C:\Users\jackl\Downloads\CSV Profiler"
 python -m pip install -r requirements.txt
 python -m pytest -q
 ```
+
+Copilot Review
+------
+Initially, Copilot was very confusing. In VS code, I was unsure as to how the files that Copilot was creating were able to be downloaded or where to find them. After creating a folder and directing that path to VS code's Copilot chat, I was able to retrieve the files and analyze them. It fell short in its ability to explain things easily. I believe that other AI tools are more efficient in the simplification of things, however this AI tool is extremely smart and needs an intelligent user as well. With proper promting, it is super helpful. One thing that suprised me was that I never had to put in a sample csv. It was able to create one and run tests on it to imrpove its model. I'm excited to continue working with it!

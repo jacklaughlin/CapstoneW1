@@ -1,6 +1,6 @@
 """Simple CLI for CSV Profiler."""
 import argparse
-from csv_profiler import profile_csv_to_json, profile_to_html, profile_csv
+from csv_profiler.profiler import profile_csv_to_json, profile_to_html, profile_csv
 
 
 def main():
@@ -26,3 +26,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
